@@ -1,16 +1,51 @@
-### Hi there 👋
+## 😄 Olá pessoal, meu nome é <strong>Michael Andrade!</strong>
 
-<!--
-**Michael-saeek/michael-saeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 25 anos, eu sou da Venezuela mas atualmente estou morando no Armação dos Buzios - Rio de Janeiro, tenho 4 anos morando no Brasil e estou na transição de carreira para me tornar um Full Stack Developer.
 
-Here are some ideas to get you started:
+*Idiomas*
+-Espanhol nativo
+-Português fluente
+-Inglês intermedio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações**
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+  **Frameworks**
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+
+**Utilidades**
+
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+**Informações da minha conta Github**
+[![card](https://github-readme-stats.vercel.app/api?username=michael-saeek&theme=default)](https://github.com/Michael-saeek)
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Michael Andrade](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/michael-andrade-955073203/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:michael_andrade96@hotmail.com)
+[![GitHub Michael-saeek]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Michael-saeek)
+![Michael Andrade](https://komarev.com/ghpvc/?username=Michael-saaek&color=006bed)
+
