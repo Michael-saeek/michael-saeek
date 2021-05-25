@@ -46,13 +46,9 @@ Tenho 25 anos, eu sou da Venezuela mas atualmente estou morando no Armação dos
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 <p align="left">
-  <a href="saeeksitow@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
   <a href="https://www.linkedin.com/in/michael-andrade-955073203/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
 </p>  
 
-[![GitHub Michael-saeek]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Michael-saeek)
+[![GitHub Michael-saeek]( https://img.shields.io/github/followers/Michael-saeek?label=follow&style=social)](https://github.com/Michael-saeek)
 ![Michael Andrade](https://komarev.com/ghpvc/?username=Michael-saaek&color=006bed)
