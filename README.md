@@ -1,7 +1,7 @@
 
 ## 😄 Olá pessoal, meu nome é <strong>Michael Andrade!</strong>
 
-Tenho 25 anos, eu sou da Venezuela mas atualmente estou morando no Armação dos Buzios - Rio de Janeiro, tenho 4 anos morando no Brasil e estou na transição de carreira para me tornar um Full Stack Developer.
+Tenho 26 anos, sou Venezuelano, atualmente morando no Armação dos Buzios - Rio de Janeiro, tenho 5 anos morando no Brasil, sou programador web !
 
 *Idiomas*
 -Espanhol nativo
